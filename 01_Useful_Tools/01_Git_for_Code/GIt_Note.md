@@ -36,5 +36,15 @@ git cat-file -p '版本号' //使用Git命名和文件版本号来查看文件  
 
 在进行提交时，会将文件的状态信息和文件的提交信息进行关联 对应对应的文件版本号==**总共三个版本号**==
 
+# 工作机制
+
+> 
+
+![image-20241017162808345](C:/Users/zhj/AppData/Roaming/Typora/typora-user-images/image-20241017162808345.png)
+
+
+
+
+
  
 
